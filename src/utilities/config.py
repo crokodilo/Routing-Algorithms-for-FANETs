@@ -65,7 +65,7 @@ ROUTING_ALGORITHM = RoutingAlgorithm.QL
 
 # ------------------------------- CONSTANTS ------------------------------- #
 # drawaing
-PLOT_SIM = False      # bool: whether to plot or not the simulation.
+PLOT_SIM = True      # bool: whether to plot or not the simulation.
 
 SAVE_PLOT = PLOT_SIM  # bool: whether to save the plots of the simulation or not.
 
